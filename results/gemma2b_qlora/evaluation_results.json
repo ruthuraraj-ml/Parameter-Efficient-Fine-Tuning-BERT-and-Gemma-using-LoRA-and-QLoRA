@@ -1,0 +1,7 @@
+{
+    "evaluation_samples": 1000,
+    "valid_predictions": 845,
+    "unknown_predictions": 155,
+    "accuracy": 0.9704,
+    "f1_score": 0.97
+}

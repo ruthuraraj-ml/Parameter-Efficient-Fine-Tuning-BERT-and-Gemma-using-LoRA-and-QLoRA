@@ -1,0 +1,11 @@
+{
+    "model": "Gemma 2B",
+    "fine_tuning": "QLoRA",
+    "quantization": "4-bit NF4",
+    "epochs": 1,
+    "training_loss": 2.705003143310547,
+    "validation_loss": 2.685547,
+    "trainable_parameters": 6389760,
+    "total_parameters": 2620731648,
+    "trainable_percentage": 0.2438
+}

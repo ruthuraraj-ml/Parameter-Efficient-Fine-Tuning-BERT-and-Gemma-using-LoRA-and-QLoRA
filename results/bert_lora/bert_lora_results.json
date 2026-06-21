@@ -1,0 +1,10 @@
+{
+    "test_accuracy": 0.9041,
+    "test_f1": 0.904114971522411,
+    "validation_accuracy": 0.9075,
+    "validation_f1": 0.907488,
+    "trainable_parameters": 591362,
+    "total_parameters": 110075140,
+    "trainable_percentage": 0.5372,
+    "parameter_reduction": 99.46
+}
