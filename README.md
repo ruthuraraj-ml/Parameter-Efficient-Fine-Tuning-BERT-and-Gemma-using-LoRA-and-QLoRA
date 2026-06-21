@@ -118,7 +118,7 @@ BERT Base Uncased was fine-tuned using LoRA adapters inserted into transformer a
 Gemma 2B was loaded using 4-bit NF4 quantization and fine-tuned using QLoRA adapters.
 
 <p align="center">
-  <img src="images/gemma_qlora_pipeline.png" width="100%">
+  <img src="images/gemma2_qlora_pipeline.png" width="100%">
 </p>
 
 *Figure 5. Gemma 2B QLoRA fine-tuning workflow.*
